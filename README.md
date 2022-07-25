@@ -30,7 +30,7 @@ python3 3_Real_Time.py
 
 ### Training
 
-Either you'll use the precaptured trainings data in **`MP_Data`** to evaluate the results:
+Either you'll use the precaptured training data in **`MP_Data`** to evaluate the results:
 
 ```bash
 python3 2_Train_Model.py
