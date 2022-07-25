@@ -50,6 +50,10 @@ If decide to take the easiest way to setup the project feel free to use the prov
 sudo docker build -t gsl-detector . && sh runDocker.sh
 ```
 
+After the successful start you can use the detector to detect one of the predefined actions:
+<div align='center'>
+<img src = 'assets/vielglueck.png' height="450px">
+</div>
 
 ## Contributing
 
