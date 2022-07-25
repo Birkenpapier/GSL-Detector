@@ -11,8 +11,8 @@ This is the supplementary proof of concept to show that the thesis which was cla
 If you want to run this program on your own machine use the package manager [pip](https://pip.pypa.io/en/stable/) to install the dependencies:
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/Birkenpapier/GSL-Detector.git
+cd GSL-Detector
 pip3 install -r requirements.txt
 ```
 
